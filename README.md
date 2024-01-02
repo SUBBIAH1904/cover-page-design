@@ -118,5 +118,10 @@ Using the command runserver, run your server and then access the static and html
 
 ![output ](https://github.com/SUBBIAH1904/cover-page-design/assets/147473604/0fe1dec3-fe8c-4cd1-8c62-d2b53ba1577b)
 
+
+
+
 ## Result:
+
+
 Book cover has been made using HTML and CSS 
