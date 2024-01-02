@@ -117,6 +117,21 @@ Using the command runserver, run your server and then access the static and html
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Output:
 
 
